@@ -1,4 +1,4 @@
-# z01-real-time-forum
+#real-time-chart-forum
 
 This 2 people project is an introduction to web sockets. The goal is to build a single page site where identified users can communicate with each others with a general forum and a private-chat system.
 
